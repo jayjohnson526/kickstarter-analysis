@@ -21,7 +21,7 @@ From this analysis, we can see that Theater Kickstarter campaigns launched in th
 ### Analysis of Outcomes Based on Goals
 Next, we analyzed campaign outcomes for plays based on funding goals.
 
-![](images/Theater_Outcomes_vs_Launch.png)
+![](images/Outcomes_vs_Goals.png)
 
 The graph above includes data for theater campaigns launched worldwide. The average goal for successful campaigns in the US is around $5000. These data however, demonstrate that campaign goals of less than $1000 are the most successful with a 76% success rate followed closely by goals of up to $5000 with a 73% success rate. The average goal for failed campaigns is closer to $10,500 indicating that, as the campain goal increases, so does the risk of launching a failed campaign. The correlation however, is not perfectly linear as some campaigns with goals between $35,000 and $45,000 have a 67% success rate, while campaigns with goals between $25,000 and $30,000 have a 20% success rate. In order to launch a campaign with the greatest likelihood of success, we recommend that Louise set her goal to less than $1,000. If this is not possible, a goal of up to $5,000 is also reasonable. 
 
